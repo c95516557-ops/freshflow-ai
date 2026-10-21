@@ -7,7 +7,8 @@ __pycache__/
 # Scripts & temporary files
 tunnel_daemon.py
 webapp_url.txt
-telegram_miniapp/
+cloudflared
+telegram_miniapp/*.py
 freshflow_bot_qr.png
 
 # Research reports and analysis docs
