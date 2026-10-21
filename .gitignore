@@ -1,0 +1,25 @@
+# System & cache
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+
+# Scripts & temporary files
+tunnel_daemon.py
+webapp_url.txt
+telegram_miniapp/
+freshflow_bot_qr.png
+
+# Research reports and analysis docs
+*.py
+*.svg
+*.json
+test_torg2.xlsx
+ТОРГ_*
+CUSTDEV_*
+АНАЛИТИЧЕСКИЙ_*
+ГЛУБОКИЙ_*
+ПРОЕКТ_*
+СТРУКТУРА_*
+ТОП_*
+freshflow_avatar.jpg
